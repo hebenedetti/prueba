@@ -2,3 +2,5 @@
 
 const multiplicar =require("./modulos/multiplicar");
 console.log(multiplicar(2,2));
+
+console.log('hola mundo');
